@@ -1,0 +1,10 @@
+name: enable_mybiner
+dependencies:
+- python
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- sympy
+- pip:
+  - filterpy
